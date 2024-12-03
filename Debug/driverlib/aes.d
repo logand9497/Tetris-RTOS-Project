@@ -18,9 +18,9 @@ driverlib/aes.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/aes.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/aes.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h
 driverlib/aes.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/aes.obj: C:/CCS2/Lab5/driverlib/aes.h
-driverlib/aes.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/aes.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+driverlib/aes.obj: C:/CCS2/Tetris/driverlib/aes.h
+driverlib/aes.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/aes.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../driverlib/aes.c:
 
@@ -58,9 +58,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/aes.h:
+C:/CCS2/Tetris/driverlib/aes.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

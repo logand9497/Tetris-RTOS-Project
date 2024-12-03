@@ -17,9 +17,9 @@ driverlib/pwm.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/pwm.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_pwm.h
 driverlib/pwm.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/pwm.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/pwm.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/pwm.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/pwm.obj: C:/CCS2/Lab5/driverlib/pwm.h
+driverlib/pwm.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/pwm.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/pwm.obj: C:/CCS2/Tetris/driverlib/pwm.h
 
 ../driverlib/pwm.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/pwm.h:
+C:/CCS2/Tetris/driverlib/pwm.h:
 

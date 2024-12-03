@@ -13,14 +13,14 @@ MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/ti/ccs1280/ccs/tools/compiler/
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h
-MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Lab5/driverlib/gpio.h
+MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Tetris/driverlib/gpio.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/tm4c123gh6pm.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h
-MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Lab5/driverlib/pin_map.h
-MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Lab5/driverlib/pwm.h
-MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Lab5/driverlib/sysctl.h
+MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Tetris/driverlib/pin_map.h
+MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Tetris/driverlib/pwm.h
+MultimodDrivers/src/multimod_LaunchpadLED.obj: C:/CCS2/Tetris/driverlib/sysctl.h
 
 ../MultimodDrivers/src/multimod_LaunchpadLED.c:
 
@@ -48,7 +48,7 @@ C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h:
 
-C:/CCS2/Lab5/driverlib/gpio.h:
+C:/CCS2/Tetris/driverlib/gpio.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/tm4c123gh6pm.h:
 
@@ -58,9 +58,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h:
 
-C:/CCS2/Lab5/driverlib/pin_map.h:
+C:/CCS2/Tetris/driverlib/pin_map.h:
 
-C:/CCS2/Lab5/driverlib/pwm.h:
+C:/CCS2/Tetris/driverlib/pwm.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 

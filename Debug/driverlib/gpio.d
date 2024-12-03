@@ -17,9 +17,9 @@ driverlib/gpio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/gpio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/gpio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/gpio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/gpio.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/gpio.obj: C:/CCS2/Lab5/driverlib/gpio.h
-driverlib/gpio.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+driverlib/gpio.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/gpio.obj: C:/CCS2/Tetris/driverlib/gpio.h
+driverlib/gpio.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../driverlib/gpio.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/gpio.h:
+C:/CCS2/Tetris/driverlib/gpio.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

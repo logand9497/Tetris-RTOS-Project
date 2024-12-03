@@ -16,11 +16,11 @@ driverlib/emac.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/emac.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/emac.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/emac.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_emac.h
-driverlib/emac.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/emac.obj: C:/CCS2/Lab5/driverlib/emac.h
-driverlib/emac.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-driverlib/emac.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/emac.obj: C:/CCS2/Lab5/driverlib/sw_crc.h
+driverlib/emac.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/emac.obj: C:/CCS2/Tetris/driverlib/emac.h
+driverlib/emac.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+driverlib/emac.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/emac.obj: C:/CCS2/Tetris/driverlib/sw_crc.h
 
 ../driverlib/emac.c:
 
@@ -54,13 +54,13 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_emac.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/emac.h:
+C:/CCS2/Tetris/driverlib/emac.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/sw_crc.h:
+C:/CCS2/Tetris/driverlib/sw_crc.h:
 

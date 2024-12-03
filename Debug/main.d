@@ -26,23 +26,22 @@ main.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 main.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 main.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_i2c.h
 main.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h
-main.obj: C:/CCS2/Lab5/driverlib/gpio.h
-main.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-main.obj: C:/CCS2/Lab5/driverlib/uart.h
+main.obj: C:/CCS2/Tetris/driverlib/gpio.h
+main.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+main.obj: C:/CCS2/Tetris/driverlib/uart.h
+main.obj: C:/CCS2/Tetris/driverlib/adc.h
 main.obj: ../MultimodDrivers/multimod_i2c.h
-main.obj: C:/CCS2/Lab5/driverlib/i2c.h
+main.obj: C:/CCS2/Tetris/driverlib/i2c.h
 main.obj: ../MultimodDrivers/multimod_joystick.h
 main.obj: ../MultimodDrivers/multimod_OPT3001.h
 main.obj: ../MultimodDrivers/multimod_PCA9956b.h
 main.obj: ../MultimodDrivers/multimod_uart.h
-main.obj: C:/CCS2/Lab5/uartstdio.h
+main.obj: C:/CCS2/Tetris/driverlib/uartstdio.h
 main.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h
 main.obj: ../MultimodDrivers/multimod_ST7789.h
 main.obj: ../MultimodDrivers/multimod_spi.h
-main.obj: C:/CCS2/Lab5/driverlib/ssi.h
+main.obj: C:/CCS2/Tetris/driverlib/ssi.h
 main.obj: ../MultimodDrivers/multimod_buttons.h
-main.obj: ../MultimodDrivers/multimod_mic.h
-main.obj: ../MultimodDrivers/multimod_dac.h
 main.obj: ../MultimodDrivers/multimod_PCA9555.h
 main.obj: ../threads.h
 main.obj: ../driverlib/interrupt.h
@@ -99,15 +98,17 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_i2c.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h:
 
-C:/CCS2/Lab5/driverlib/gpio.h:
+C:/CCS2/Tetris/driverlib/gpio.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/uart.h:
+C:/CCS2/Tetris/driverlib/uart.h:
+
+C:/CCS2/Tetris/driverlib/adc.h:
 
 ../MultimodDrivers/multimod_i2c.h:
 
-C:/CCS2/Lab5/driverlib/i2c.h:
+C:/CCS2/Tetris/driverlib/i2c.h:
 
 ../MultimodDrivers/multimod_joystick.h:
 
@@ -117,7 +118,7 @@ C:/CCS2/Lab5/driverlib/i2c.h:
 
 ../MultimodDrivers/multimod_uart.h:
 
-C:/CCS2/Lab5/uartstdio.h:
+C:/CCS2/Tetris/driverlib/uartstdio.h:
 
 C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h:
 
@@ -125,13 +126,9 @@ C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h:
 
 ../MultimodDrivers/multimod_spi.h:
 
-C:/CCS2/Lab5/driverlib/ssi.h:
+C:/CCS2/Tetris/driverlib/ssi.h:
 
 ../MultimodDrivers/multimod_buttons.h:
-
-../MultimodDrivers/multimod_mic.h:
-
-../MultimodDrivers/multimod_dac.h:
 
 ../MultimodDrivers/multimod_PCA9555.h:
 

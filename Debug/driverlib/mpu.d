@@ -15,9 +15,9 @@ driverlib/mpu.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/includ
 driverlib/mpu.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/mpu.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h
 driverlib/mpu.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/mpu.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/mpu.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/mpu.obj: C:/CCS2/Lab5/driverlib/mpu.h
+driverlib/mpu.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/mpu.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/mpu.obj: C:/CCS2/Tetris/driverlib/mpu.h
 
 ../driverlib/mpu.c:
 
@@ -49,9 +49,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/mpu.h:
+C:/CCS2/Tetris/driverlib/mpu.h:
 

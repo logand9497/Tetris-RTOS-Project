@@ -34,12 +34,12 @@ int main(void)
     G8RTOS_Init();
     multimod_init();
 
-    // Add semaphores, threads, FIFOs here
-
-    // add periodic and aperiodic events here (check multimod_mic.h and multimod_buttons.h for defines)
+    Threads_Init();
 
     // make sure screen is cleared
     ST7789_Fill(ST7789_BLACK);
+
+    IntMasterEnable();
 
     G8RTOS_Launch();
     while (1);

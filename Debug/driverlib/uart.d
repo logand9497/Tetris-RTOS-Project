@@ -17,9 +17,9 @@ driverlib/uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_uart.h
-driverlib/uart.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/uart.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/uart.obj: C:/CCS2/Lab5/driverlib/uart.h
+driverlib/uart.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/uart.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/uart.obj: C:/CCS2/Tetris/driverlib/uart.h
 
 ../driverlib/uart.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_uart.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/uart.h:
+C:/CCS2/Tetris/driverlib/uart.h:
 

@@ -21,9 +21,9 @@ G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h
-G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Lab5/driverlib/systick.h
-G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Tetris/driverlib/systick.h
+G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+G8RTOS/src/G8RTOS_Scheduler.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../G8RTOS/src/G8RTOS_Scheduler.c:
 
@@ -67,9 +67,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h:
 
-C:/CCS2/Lab5/driverlib/systick.h:
+C:/CCS2/Tetris/driverlib/systick.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

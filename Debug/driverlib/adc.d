@@ -17,9 +17,9 @@ driverlib/adc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/adc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/adc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/adc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
-driverlib/adc.obj: C:/CCS2/Lab5/driverlib/adc.h
-driverlib/adc.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/adc.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+driverlib/adc.obj: C:/CCS2/Tetris/driverlib/adc.h
+driverlib/adc.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/adc.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../driverlib/adc.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
-C:/CCS2/Lab5/driverlib/adc.h:
+C:/CCS2/Tetris/driverlib/adc.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

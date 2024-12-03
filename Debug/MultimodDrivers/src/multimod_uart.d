@@ -13,15 +13,15 @@ MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-a
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h
-MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Lab5/uartstdio.h
+MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Tetris/driverlib/uartstdio.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h
 MultimodDrivers/src/multimod_uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/tm4c123gh6pm.h
 MultimodDrivers/src/multimod_uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 MultimodDrivers/src/multimod_uart.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h
-MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Lab5/driverlib/gpio.h
-MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Lab5/driverlib/uart.h
-MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Lab5/driverlib/pin_map.h
+MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Tetris/driverlib/gpio.h
+MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Tetris/driverlib/uart.h
+MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+MultimodDrivers/src/multimod_uart.obj: C:/CCS2/Tetris/driverlib/pin_map.h
 
 ../MultimodDrivers/src/multimod_uart.c:
 
@@ -49,7 +49,7 @@ C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h:
 
-C:/CCS2/Lab5/uartstdio.h:
+C:/CCS2/Tetris/driverlib/uartstdio.h:
 
 C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h:
 
@@ -59,11 +59,11 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h:
 
-C:/CCS2/Lab5/driverlib/gpio.h:
+C:/CCS2/Tetris/driverlib/gpio.h:
 
-C:/CCS2/Lab5/driverlib/uart.h:
+C:/CCS2/Tetris/driverlib/uart.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/pin_map.h:
+C:/CCS2/Tetris/driverlib/pin_map.h:
 

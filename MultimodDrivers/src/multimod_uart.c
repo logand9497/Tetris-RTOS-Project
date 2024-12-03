@@ -14,7 +14,7 @@
 #include <inc/hw_memmap.h>
 #include <inc/hw_gpio.h>
 
-#include <uartstdio.h>
+#include <driverlib/uartstdio.h>
 #include <driverlib/gpio.h>
 #include <driverlib/uart.h>
 #include <driverlib/sysctl.h>
@@ -42,12 +42,24 @@ void UART_Init() {
     UARTFIFODisable(UART0_BASE);
 
     // Set UART clock source
-    UARTClockSourceSet(UART0_BASE, UART_CLOCK_PIOSC);
+    UARTClockSourceSet(UART0_BASE, UART_CLOCK_SYSTEM);
     // Configure UART baud rate
 
-    UARTStdioConfig(0, 115200, 16000000);
+    UARTStdioConfig(0, 115200, SysCtlClockGet());
 
+}
 
+// UART_BeagleBone_Init
+// Initializes UART serial communication with Beaglebone
+// Return: void
+void UART_BeagleBone_Init(void) {
+    // Enable peripherals
+
+    // Configure UART4 pins
+
+    // Configure UART4 settings
+
+    // Enable UART4 RX interrupts
 }
 
 /********************************Public Functions***********************************/

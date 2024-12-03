@@ -16,8 +16,8 @@
 
 /*************************************Defines***************************************/
 
-#define FIFO_SIZE 256
-#define MAX_NUMBER_OF_FIFOS 5
+#define FIFO_SIZE 16
+#define MAX_NUMBER_OF_FIFOS 4
 
 /*************************************Defines***************************************/
 

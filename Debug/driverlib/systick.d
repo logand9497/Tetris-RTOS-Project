@@ -15,9 +15,9 @@ driverlib/systick.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/in
 driverlib/systick.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/systick.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h
 driverlib/systick.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/systick.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/systick.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/systick.obj: C:/CCS2/Lab5/driverlib/systick.h
+driverlib/systick.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/systick.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/systick.obj: C:/CCS2/Tetris/driverlib/systick.h
 
 ../driverlib/systick.c:
 
@@ -49,9 +49,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_nvic.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/systick.h:
+C:/CCS2/Tetris/driverlib/systick.h:
 

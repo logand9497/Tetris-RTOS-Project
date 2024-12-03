@@ -17,11 +17,11 @@ driverlib/usb.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/usb.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/usb.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/usb.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_usb.h
-driverlib/usb.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/usb.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/usb.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-driverlib/usb.obj: C:/CCS2/Lab5/driverlib/udma.h
-driverlib/usb.obj: C:/CCS2/Lab5/driverlib/usb.h
+driverlib/usb.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/usb.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/usb.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+driverlib/usb.obj: C:/CCS2/Tetris/driverlib/udma.h
+driverlib/usb.obj: C:/CCS2/Tetris/driverlib/usb.h
 
 ../driverlib/usb.c:
 
@@ -57,13 +57,13 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_usb.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/udma.h:
+C:/CCS2/Tetris/driverlib/udma.h:
 
-C:/CCS2/Lab5/driverlib/usb.h:
+C:/CCS2/Tetris/driverlib/usb.h:
 

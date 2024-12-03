@@ -1,4 +1,4 @@
-// multimod_joystic.c
+// multimod_joystick.h
 // Date Created: 2023-07-25
 // Date Updated: 2023-07-27
 // Declarations for multimod joystick functions
@@ -17,7 +17,6 @@
 
 #define JOYSTICK_INT_GPIO_BASE       GPIO_PORTD_BASE
 #define JOYSTICK_INT_PIN             GPIO_PIN_2
-#define JOYSTICK_INTERRUPT           INT_GPIOD
 
 /*************************************Defines***************************************/
 

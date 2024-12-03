@@ -356,7 +356,7 @@ void ST7789_DrawLine(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1, uint16_
 // Param uint16_t h: height of retangle.
 // Param uint16_t color: color of line.
 // Return: void
-void ST7789_DrawRectangle(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color) {
+void ST7789_DrawRectangle(uint16_t x, uint16_t y, uint16_t w, uint16_t h, uint16_t color) {
     uint8_t color_hi, color_lo;
     ST7789_Select();
 

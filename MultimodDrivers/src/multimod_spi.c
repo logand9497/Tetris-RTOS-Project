@@ -30,7 +30,6 @@ void SPI_Init(uint32_t mod) {
         SysCtlPeripheralEnable(SYSCTL_PERIPH_SSI0);
 
         GPIOPinConfigure(GPIO_PA2_SSI0CLK);
-        // GPIOPinConfigure(GPIO_PA3_SSI0FSS);
         GPIOPinConfigure(GPIO_PA4_SSI0RX);
         GPIOPinConfigure(GPIO_PA5_SSI0TX);
 
@@ -39,6 +38,22 @@ void SPI_Init(uint32_t mod) {
         SSIDisable(mod);
         SSIClockSourceSet(mod, SSI_CLOCK_SYSTEM);
         SSIConfigSetExpClk(SSI0_BASE, SysCtlClockGet(), SSI_FRF_MOTO_MODE_3, SSI_MODE_MASTER, 15000000, 8);
+        SSIEnable(mod);
+    }
+
+    if (mod == SPI_B_BASE) {
+        SysCtlPeripheralEnable(SYSCTL_PERIPH_GPIOB);
+        SysCtlPeripheralEnable(SYSCTL_PERIPH_SSI2);
+
+        GPIOPinConfigure(GPIO_PB4_SSI2CLK);
+        GPIOPinConfigure(GPIO_PB6_SSI2RX);
+        GPIOPinConfigure(GPIO_PB7_SSI2TX);
+
+        GPIOPinTypeSSI(SPI_B_GPIO_BASE, SPI_B_PIN_MISO | SPI_B_PIN_MOSI | SPI_B_PIN_CLK);
+
+        SSIDisable(mod);
+        SSIClockSourceSet(mod, SSI_CLOCK_SYSTEM);
+        SSIConfigSetExpClk(mod, SysCtlClockGet(), SSI_FRF_MOTO_MODE_0, SSI_MODE_MASTER, 20000000, 12);
         SSIEnable(mod);
     }
 }

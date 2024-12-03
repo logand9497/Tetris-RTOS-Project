@@ -17,9 +17,9 @@ driverlib/timer.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/timer.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_timer.h
 driverlib/timer.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/timer.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
-driverlib/timer.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/timer.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/timer.obj: C:/CCS2/Lab5/driverlib/timer.h
+driverlib/timer.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/timer.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/timer.obj: C:/CCS2/Tetris/driverlib/timer.h
 
 ../driverlib/timer.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/timer.h:
+C:/CCS2/Tetris/driverlib/timer.h:
 

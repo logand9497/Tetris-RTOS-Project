@@ -16,10 +16,10 @@ MultimodDrivers/src/multimod_buttons.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cg
 MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h
 MultimodDrivers/src/multimod_buttons.obj: ../MultimodDrivers/multimod_i2c.h
-MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Lab5/driverlib/i2c.h
-MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Lab5/driverlib/gpio.h
-MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Lab5/driverlib/pin_map.h
+MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Tetris/driverlib/i2c.h
+MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Tetris/driverlib/gpio.h
+MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/Tetris/driverlib/pin_map.h
 MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/tm4c123gh6pm.h
 MultimodDrivers/src/multimod_buttons.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_i2c.h
 
@@ -55,13 +55,13 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_gpio.h:
 
 ../MultimodDrivers/multimod_i2c.h:
 
-C:/CCS2/Lab5/driverlib/i2c.h:
+C:/CCS2/Tetris/driverlib/i2c.h:
 
-C:/CCS2/Lab5/driverlib/gpio.h:
+C:/CCS2/Tetris/driverlib/gpio.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/pin_map.h:
+C:/CCS2/Tetris/driverlib/pin_map.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/tm4c123gh6pm.h:
 

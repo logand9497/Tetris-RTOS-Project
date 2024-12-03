@@ -26,6 +26,12 @@
 #define SPI_A_PIN_MOSI      GPIO_PIN_5
 #define SPI_A_PIN_CLK       GPIO_PIN_2
 
+#define SPI_B_BASE          SSI2_BASE
+#define SPI_B_GPIO_BASE     GPIO_PORTB_BASE
+#define SPI_B_PIN_MISO      GPIO_PIN_4
+#define SPI_B_PIN_MOSI      GPIO_PIN_6
+#define SPI_B_PIN_CLK       GPIO_PIN_7
+
 /*************************************Defines***************************************/
 
 /******************************Data Type Definitions********************************/

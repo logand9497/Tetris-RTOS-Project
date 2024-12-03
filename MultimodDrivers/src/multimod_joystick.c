@@ -58,7 +58,7 @@ void JOYSTICK_IntEnable() {
 // Gets button reading
 // Return: bool
 uint8_t JOYSTICK_GetPress() {
-    if (GPIOPinRead(JOYSTICK_INT_GPIO_BASE, JOYSTICK_INT_PIN)) {
+    if (GPIOPinRead(JOYSTICK_INT_GPIO_BASE, GPIO_PIN_0)) {
         return 0;
     }
 

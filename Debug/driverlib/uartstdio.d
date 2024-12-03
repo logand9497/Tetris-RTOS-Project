@@ -17,12 +17,12 @@ driverlib/uartstdio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/uartstdio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/uartstdio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/uartstdio.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_uart.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/rom.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/rom_map.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-driverlib/uartstdio.obj: C:/CCS2/Lab5/driverlib/uart.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/rom.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/rom_map.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+driverlib/uartstdio.obj: C:/CCS2/Tetris/driverlib/uart.h
 driverlib/uartstdio.obj: ../driverlib/uartstdio.h
 
 ../driverlib/uartstdio.c:
@@ -59,17 +59,17 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_uart.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/rom.h:
+C:/CCS2/Tetris/driverlib/rom.h:
 
-C:/CCS2/Lab5/driverlib/rom_map.h:
+C:/CCS2/Tetris/driverlib/rom_map.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/uart.h:
+C:/CCS2/Tetris/driverlib/uart.h:
 
 ../driverlib/uartstdio.h:
 

@@ -16,8 +16,8 @@ driverlib/sysexc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/sysexc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/sysexc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysexc.h
 driverlib/sysexc.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/sysexc.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/sysexc.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+driverlib/sysexc.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/sysexc.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../driverlib/sysexc.c:
 
@@ -51,7 +51,7 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysexc.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

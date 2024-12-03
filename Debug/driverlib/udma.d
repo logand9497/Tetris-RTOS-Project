@@ -15,9 +15,9 @@ driverlib/udma.obj: C:/ti/ccs1280/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/inclu
 driverlib/udma.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/udma.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
 driverlib/udma.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_udma.h
-driverlib/udma.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/udma.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/udma.obj: C:/CCS2/Lab5/driverlib/udma.h
+driverlib/udma.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/udma.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/udma.obj: C:/CCS2/Tetris/driverlib/udma.h
 
 ../driverlib/udma.c:
 
@@ -49,9 +49,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_udma.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/udma.h:
+C:/CCS2/Tetris/driverlib/udma.h:
 

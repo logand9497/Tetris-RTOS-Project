@@ -30,11 +30,6 @@
 #define I2C_B_PIN_SCL       GPIO_PIN_2
 #define I2C_B_PIN_SDA       GPIO_PIN_3
 
-#define I2C_C_BASE          I2C0_BASE
-#define I2C_C_GPIO_BASE     GPIO_PORTB_BASE
-#define I2C_C_PIN_SCL       GPIO_PIN_2
-#define I2C_C_PIN_SDA       GPIO_PIN_3
-
 /*************************************Defines***************************************/
 
 /******************************Data Type Definitions********************************/

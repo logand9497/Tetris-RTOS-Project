@@ -17,11 +17,11 @@ driverlib/eeprom.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_flash.h
 driverlib/eeprom.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/eeprom.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/eeprom.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/eeprom.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/eeprom.obj: C:/CCS2/Lab5/driverlib/flash.h
-driverlib/eeprom.obj: C:/CCS2/Lab5/driverlib/interrupt.h
-driverlib/eeprom.obj: C:/CCS2/Lab5/driverlib/sysctl.h
-driverlib/eeprom.obj: C:/CCS2/Lab5/driverlib/eeprom.h
+driverlib/eeprom.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/eeprom.obj: C:/CCS2/Tetris/driverlib/flash.h
+driverlib/eeprom.obj: C:/CCS2/Tetris/driverlib/interrupt.h
+driverlib/eeprom.obj: C:/CCS2/Tetris/driverlib/sysctl.h
+driverlib/eeprom.obj: C:/CCS2/Tetris/driverlib/eeprom.h
 
 ../driverlib/eeprom.c:
 
@@ -57,13 +57,13 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/flash.h:
+C:/CCS2/Tetris/driverlib/flash.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 
-C:/CCS2/Lab5/driverlib/sysctl.h:
+C:/CCS2/Tetris/driverlib/sysctl.h:
 
-C:/CCS2/Lab5/driverlib/eeprom.h:
+C:/CCS2/Tetris/driverlib/eeprom.h:
 

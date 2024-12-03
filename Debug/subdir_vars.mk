@@ -35,7 +35,6 @@ C_DEPS__QUOTED += \
 
 C_SRCS__QUOTED += \
 "../main.c" \
-"../threads.c" \
 "../tm4c123gh6pm_startup_ccs.c" 
 
 

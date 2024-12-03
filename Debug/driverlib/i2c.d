@@ -17,9 +17,9 @@ driverlib/i2c.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_ints.h
 driverlib/i2c.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_memmap.h
 driverlib/i2c.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h
 driverlib/i2c.obj: C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h
-driverlib/i2c.obj: C:/CCS2/Lab5/driverlib/debug.h
-driverlib/i2c.obj: C:/CCS2/Lab5/driverlib/i2c.h
-driverlib/i2c.obj: C:/CCS2/Lab5/driverlib/interrupt.h
+driverlib/i2c.obj: C:/CCS2/Tetris/driverlib/debug.h
+driverlib/i2c.obj: C:/CCS2/Tetris/driverlib/i2c.h
+driverlib/i2c.obj: C:/CCS2/Tetris/driverlib/interrupt.h
 
 ../driverlib/i2c.c:
 
@@ -55,9 +55,9 @@ C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_sysctl.h:
 
 C:/CCS2/SW-TM4C-2.2.0.295/inc/hw_types.h:
 
-C:/CCS2/Lab5/driverlib/debug.h:
+C:/CCS2/Tetris/driverlib/debug.h:
 
-C:/CCS2/Lab5/driverlib/i2c.h:
+C:/CCS2/Tetris/driverlib/i2c.h:
 
-C:/CCS2/Lab5/driverlib/interrupt.h:
+C:/CCS2/Tetris/driverlib/interrupt.h:
 

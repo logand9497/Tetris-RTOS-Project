@@ -113,9 +113,6 @@ PDE_DEPS__QUOTED :=
 SUBDIRS := \
 . \
 G8RTOS/src \
-MiscFunctions/LinAlg/src \
-MiscFunctions/Shapes/src \
-MiscFunctions/Signals/src \
 MultimodDrivers/src \
 driverlib \
 driverlib/ccs/Debug \

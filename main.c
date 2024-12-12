@@ -36,9 +36,6 @@ int main(void)
 
     Threads_Init();
 
-    // make sure screen is cleared
-    ST7789_Fill(ST7789_BLACK);
-
     IntMasterEnable();
 
     G8RTOS_Launch();

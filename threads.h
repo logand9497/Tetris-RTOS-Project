@@ -1,6 +1,6 @@
 // threads.h
 // Date Created: 2023-07-26
-// Date Updated: 2023-07-26
+// Date Updated: 2024-12-11
 // Threads
 
 #ifndef THREADS_H_
@@ -41,10 +41,10 @@
 #define COLOR_L 0x04BF      // Orange
 
 // Thread priorities
-#define GAME_THREAD_PRIORITY 1
+#define GAME_THREAD_PRIORITY 2
 #define BUTTON_THREAD_PRIORITY 4
 #define READ_BUTTONS_PRIORITY 3
-#define JOYSTICK_THREAD_PRIORITY 2
+#define JOYSTICK_THREAD_PRIORITY 1
 
 // Periodic events
 #define JOYSTICK_PERIOD 50
@@ -59,9 +59,9 @@
 /***********************************Semaphores**************************************/
 
 semaphore_t sem_I2CA;
+semaphore_t sem_UART;
 semaphore_t sem_SPIA;
 semaphore_t sem_PCA9555_Debounce;
-semaphore_t sem_Joystick_Debounce;
 semaphore_t sem_GameState;
 
 /***********************************Semaphores**************************************/
@@ -74,6 +74,7 @@ typedef struct {
     int currentPieceX;
     int currentPieceY;
     int currentPieceType;  // 0-6 corresponding to piece types
+    int nextPieceType;
     bool gameOver;
     bool pauseGame;
 } GameState;

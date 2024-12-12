@@ -84,6 +84,8 @@
 #define ST7789_RED                  0x001F
 #define ST7789_BLUE                 0xF800
 #define ST7789_GREEN                0x07E0
+#define ST7789_WHITE                0xFFFF
+#define ST7789_GREY                 0x7BCF
 
 /*************************************Defines***************************************/
 
